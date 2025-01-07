@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErbParserDotNet", "ErbParserDotNet\ErbParserDotNet.csproj", "{DF216995-0F68-4DFA-9B1A-39C5E714C103}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EraMiraiTranslator", "EraMiraiTranslator\EraMiraiTranslator.csproj", "{505587C7-4210-4616-80BE-4F412C0482BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{DF216995-0F68-4DFA-9B1A-39C5E714C103}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DF216995-0F68-4DFA-9B1A-39C5E714C103}.Release|x64.ActiveCfg = Release|x64
 		{DF216995-0F68-4DFA-9B1A-39C5E714C103}.Release|x64.Build.0 = Release|x64
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Debug|x64.Build.0 = Debug|Any CPU
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Release|x64.ActiveCfg = Release|Any CPU
+		{505587C7-4210-4616-80BE-4F412C0482BB}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
